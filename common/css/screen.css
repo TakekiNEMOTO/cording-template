@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+.spOnly{
+	display:none;
+}
+
+html{}
+
+	body{}
+
+		#adapt{}
+
+			#header{}
+
+		#globalNavi{}
+
+		#mainimage{}
+
+		#middle{}
+
+			#container{}
+	
+				#contents{}
+
+				#sideNavi{}
+
+		#bottom{}
+
+			#footer{}
+
+		#copyright{}
+
+			small{}

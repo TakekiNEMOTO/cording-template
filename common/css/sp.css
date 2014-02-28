@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+.pcOnly{
+	display:none;
+}
+
+html{}
+
+	body{}
+
+		#adapt{
+			clear: both;
+		}
+
+			#header{}
+
+		#globalNavi{}
+
+		#mainimage{}
+
+		#middle{}
+
+			#container{}
+	
+				#contents{}
+
+				#sideNavi{}
+
+		#bottom{}
+
+			#footer{}
+
+		#copyright{}
+
+			small{}
